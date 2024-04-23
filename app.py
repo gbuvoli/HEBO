@@ -862,4 +862,4 @@ def run_models(data_store2, categoria, habitaciones, baños, park, area, admon, 
 
 # Ejecuta la aplicación
 if __name__ == '__main__':
- app.run_server(debug=True)
+ app.run_server(debug=True, host='0.0.0.0', port=9000)
