@@ -1,0 +1,31 @@
+feature,importance
+remainder__admon,178.72219428605896
+cat__Tipo de Apartamento_Duplex - Loft - PentHouse,364.8186763548016
+cat__Tipo de Apartamento_Duplex - Loft,3772.823381578019
+cat__Tipo de Apartamento_Loft - PentHouse,10081.422283125941
+cat__Estado_5.0,16964.033319701422
+remainder__rooms,19160.429033993034
+cat__Estado_3.0,19587.65602680001
+cat__Tipo de Apartamento_Duplex,21906.384459027544
+cat__Antiguedad_Más de 30 años,25981.369793707963
+cat__Tipo de Apartamento_PentHouse,26130.08274535236
+cat__Antiguedad_9 a 15 años,29296.594272531675
+remainder__area_const,30477.61494446161
+cat__Antiguedad_1 a 8 años,30633.171386292506
+cat__Estado_No Especificado,30875.288578667056
+cat__Tipo de Apartamento_Loft,31200.578943327022
+cat__Tipo de Apartamento_Duplex - PentHouse,35897.20915551171
+remainder__long,38012.9364205587
+cat__Estado_4.0,38695.46564420344
+cat__Antiguedad_No Especificado,39089.2053664547
+remainder__Estrato,42668.22625609137
+remainder__baths,53089.85889001509
+cat__Antiguedad_Menos de 1 año,53213.56648163412
+remainder__lat,56064.175548053114
+remainder__park,62917.15467019785
+cat__Antiguedad_16 a 30 años,65726.2200506606
+cat__category_Apartaestudio,77811.85784013987
+cat__Tipo de Apartamento_No Aplica,82402.3382558633
+cat__category_Casa,82403.03896845669
+cat__category_Apartamento,87495.69964417821
+cat__Tipo de Apartamento_No Especificado,93596.18339489136
