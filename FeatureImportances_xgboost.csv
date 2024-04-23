@@ -1,31 +1,31 @@
 feature,coefficient
-cat__Tipo de Apartamento_No Aplica,0.0
-cat__category_Apartaestudio,0.0019232429
-cat__Estado_4.0,0.0035762514
-cat__Tipo de Apartamento_Loft - PentHouse,0.0037421766
-cat__Estado_5.0,0.003971125
-cat__Tipo de Apartamento_Duplex - Loft,0.0042113937
-cat__Tipo de Apartamento_Duplex,0.004302419
-cat__Tipo de Apartamento_Duplex - PentHouse,0.0043138503
-cat__Antiguedad_9 a 15 años,0.0047749793
-cat__Tipo de Apartamento_Loft,0.0050390866
-cat__Tipo de Apartamento_Duplex - Loft - PentHouse,0.005538798
-cat__Estado_3.0,0.005643929
-cat__Antiguedad_No Especificado,0.0057477728
-cat__Estado_No Especificado,0.005933021
-cat__Tipo de Apartamento_PentHouse,0.006692097
-cat__Tipo de Apartamento_No Especificado,0.007865993
-remainder__rooms,0.010996085
-cat__category_Apartamento,0.015350501
-cat__Antiguedad_Más de 30 años,0.015501849
-remainder__lat,0.018607268
-cat__Antiguedad_16 a 30 años,0.018992241
-cat__Antiguedad_1 a 8 años,0.019611044
-cat__Antiguedad_Menos de 1 año,0.025464892
-remainder__long,0.026259614
-remainder__baths,0.029805621
-remainder__Estrato,0.04309661
-remainder__area_const,0.04626844
-remainder__park,0.04988694
-cat__category_Casa,0.10406458
-remainder__admon,0.5028182
+Tipo de Apartamento_No Aplica,0.0
+category_Apartaestudio,0.0019232429
+Estado_4.0,0.0035762514
+Tipo de Apartamento_Loft - PentHouse,0.0037421766
+Estado_5.0,0.003971125
+Tipo de Apartamento_Duplex - Loft,0.0042113937
+Tipo de Apartamento_Duplex,0.004302419
+Tipo de Apartamento_Duplex - PentHouse,0.0043138503
+Antiguedad_9 a 15 años,0.0047749793
+Tipo de Apartamento_Loft,0.0050390866
+Tipo de Apartamento_Duplex - Loft - PentHouse,0.005538798
+Estado_3.0,0.005643929
+Antiguedad_No Especificado,0.0057477728
+Estado_No Especificado,0.005933021
+Tipo de Apartamento_PentHouse,0.006692097
+Tipo de Apartamento_No Especificado,0.007865993
+rooms,0.010996085
+category_Apartamento,0.015350501
+Antiguedad_Más de 30 años,0.015501849
+lat,0.018607268
+Antiguedad_16 a 30 años,0.018992241
+Antiguedad_1 a 8 años,0.019611044
+Antiguedad_Menos de 1 año,0.025464892
+long,0.026259614
+baths,0.029805621
+Estrato,0.04309661
+area_const,0.04626844
+park,0.04988694
+category_Casa,0.10406458
+admon,0.5028182
