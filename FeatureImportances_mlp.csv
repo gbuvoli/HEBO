@@ -1,20 +1,20 @@
 feature,coefficient
 admon,178.72219428605896
-Tipo de Apartamento_Duplex - Loft - PentHouse,364.8186763548016
-Tipo de Apartamento_Duplex - Loft,3772.823381578019
-Tipo de Apartamento_Loft - PentHouse,10081.422283125941
+Tipo_Apto_Duplex-Loft-Pent,364.8186763548016
+Tipo_Apto_Duplex-Loft,3772.823381578019
+Tipo_Apto_Loft-Pent,10081.422283125941
 Estado_5.0,16964.033319701422
 rooms,19160.429033993034
 Estado_3.0,19587.65602680001
-Tipo de Apartamento_Duplex,21906.384459027544
+Tipo_Apto_Duplex,21906.384459027544
 Antiguedad_Más de 30 años,25981.369793707963
-Tipo de Apartamento_PentHouse,26130.08274535236
+Tipo_Apto_Pent,26130.08274535236
 Antiguedad_9 a 15 años,29296.594272531675
 area_const,30477.61494446161
 Antiguedad_1 a 8 años,30633.171386292506
 Estado_No Especificado,30875.288578667056
-Tipo de Apartamento_Loft,31200.578943327022
-Tipo de Apartamento_Duplex - PentHouse,35897.20915551171
+Tipo_Apto_Loft,31200.578943327022
+Tipo_Apto_Duplex-Pent,35897.20915551171
 long,38012.9364205587
 Estado_4.0,38695.46564420344
 Antiguedad_No Especificado,39089.2053664547
@@ -25,7 +25,7 @@ lat,56064.175548053114
 park,62917.15467019785
 Antiguedad_16 a 30 años,65726.2200506606
 category_Apartaestudio,77811.85784013987
-Tipo de Apartamento_No Aplica,82402.3382558633
+Tipo_Apto_No Aplica,82402.3382558633
 category_Casa,82403.03896845669
 category_Apartamento,87495.69964417821
-Tipo de Apartamento_No Especificado,93596.18339489136
+Tipo_Apto_No Especificado,93596.18339489136
